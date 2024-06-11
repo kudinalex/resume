@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/PycharmProjects/pythonProject/mlruns/249303512414488830/bfd3be8cde5e44b0a59c6a5cb8c68c51/artifacts
+end_time: 1718102586683
+entry_point_name: ''
+experiment_id: '249303512414488830'
+lifecycle_stage: active
+run_id: bfd3be8cde5e44b0a59c6a5cb8c68c51
+run_name: silent-pig-461
+run_uuid: bfd3be8cde5e44b0a59c6a5cb8c68c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718102583975
+status: 3
+tags: []
+user_id: Admin
