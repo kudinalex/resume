@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+seaborn
+cv2
+os
