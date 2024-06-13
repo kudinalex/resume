@@ -1,0 +1,7 @@
+zipfile
+wordcloud
+matplotlib
+pandas
+io
+nltk
+sklearn
