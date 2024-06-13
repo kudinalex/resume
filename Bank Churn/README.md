@@ -1,4 +1,5 @@
 Проект для прогнозирования оттока клиентов в банке
+
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 
 CustomerId—contains random values and has no effect on customer leaving the bank.
